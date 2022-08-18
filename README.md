@@ -1,0 +1,2 @@
+# Investigation-of-Patients-not-showing-up-for-Appointments
+This is a descriptive analysis project that aims to analyse the factors that relate to patients showing up for appointments once the appointments have been scheduled. Different variables including Diabetes, Alcoholism and Hypertension have been explored alongside other variables to try and find reasons why some patients fail to show up for appointments.
